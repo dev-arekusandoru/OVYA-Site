@@ -1,0 +1,18 @@
+{
+	"applinks": {
+		"details": [
+			{
+				"appIDs": [
+					"VNARCJCP6L.com.devarekusandoru.OVYA",
+					"VNARCJCP6L.com.devarekusandoru.OVYA.dev"
+				]
+			}
+		]
+	},
+	"webcredentials": {
+		"apps": [
+			"VNARCJCP6L.com.devarekusandoru.OVYA",
+			"VNARCJCP6L.com.devarekusandoru.OVYA.dev"
+		]
+	}
+}
